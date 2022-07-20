@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Respository GitHub](https://github.com/GiSofia/NFTComponent)
+- Solution URL: [Repository GitHub](https://github.com/GiSofia/NFTComponent)
 - Live Site URL: [GitHub](https://gisofia.github.io/NFTComponent/)
 
 ## My process
